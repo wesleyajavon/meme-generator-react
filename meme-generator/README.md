@@ -1,12 +1,41 @@
-# React + Vite
+# 🖼️ Meme Generator (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fun and interactive Meme Generator built with React. It allows users to generate random meme images and overlay custom top and bottom text. The project was created to practice using the `useEffect` hook and working with data fetching in React functional components.
 
-Currently, two official plugins are available:
+## 🧠 What I Practiced
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Using the `useEffect` hook for side effects.
+- Fetching and handling API data in React.
+- Managing component state with `useState`.
+- Handling user input and dynamic rendering.
 
-## Expanding the ESLint configuration
+## ⚙️ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Fetches a list of meme templates from an external API.
+- Displays a random meme image on button click.
+- Lets users add custom top and bottom text.
+- Dynamically updates the meme preview.
+
+## 🔗 Live Demo
+
+*(Add your live demo URL here if you deploy it — e.g., via Vercel or Netlify)*
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/wesleyajavon/meme-generator-react.git
+   cd meme-generator-react
+   npm install
+   npm run dev 
+
+## 📸 Preview
+
+![App Screenshot](./public/screenshot.png)
