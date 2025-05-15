@@ -18,7 +18,6 @@ This is a fun and interactive Meme Generator built with React. It allows users t
 
 ## 🔗 Live Demo
 
-*(Add your live demo URL here if you deploy it — e.g., via Vercel or Netlify)*
 
 ## 🚀 Getting Started
 
